@@ -13,5 +13,6 @@
 ## 查询职工工资信息                   
 ## 职工工资统计分析 
   
-#StudentsScoreChart
+# StudentsScoreChart
 ##
+![QQ图片20211214221730](https://user-images.githubusercontent.com/33172125/146666824-677d98bb-f9e9-45be-a57f-519a3fb6d9d9.jpg)
